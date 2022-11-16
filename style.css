@@ -33,8 +33,18 @@ img{
 
 
 }
-.achievment_text span{
+.achievment1_text span{
     color: orange;
 }
 
+img{
+    width:50%;
+}
+.new{
+    margin-bottom: 20px;
+
+}
+#contact iframe{
+    width: 100%;
+}
 
